@@ -18,3 +18,13 @@ export default {
   }
 };
 </script>
+<style>
+@font-face {
+  font-family: "Font global";
+  src: url("./font/Alice-Regular.ttf");
+}
+@font-face {
+  font-family: "Ma fonte";
+  src: url("./font/AlexBrush-Regular.ttf");
+}
+</style>
